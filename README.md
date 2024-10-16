@@ -29,3 +29,6 @@ you don't want or need it. Or you could tell CMake where to find boost
 with ccmake or cmake-gui. It's just there to serve as an example, how
 you could declare dependencies that you do not distribute with your
 project.
+
+## install boost library
+sudo apt-get install libboost-all-dev  
