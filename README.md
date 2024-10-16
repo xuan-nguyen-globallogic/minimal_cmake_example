@@ -34,3 +34,5 @@ project.
 sudo apt-get install libboost-all-dev  
 ## install GTEST
 sudo apt-get install libgtest-dev
+## build and install to current directory
+mkdir build && cd build && cmake ../ -DCMAKE_INSTALL_PREFIX=./ && make && make install
