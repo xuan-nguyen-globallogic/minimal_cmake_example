@@ -32,3 +32,5 @@ project.
 
 ## install boost library
 sudo apt-get install libboost-all-dev  
+## install GTEST
+sudo apt-get install libgtest-dev
