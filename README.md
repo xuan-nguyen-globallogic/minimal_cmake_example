@@ -19,7 +19,7 @@ important to build all parts of the project. This information should
 not be scattered around in different source folders within the
 project.
 
-## build can fail because of boost
+## build can fail because of boost (look into boost)
 
 The build of this project might fail, when CMake does not find
 boost. This does not mean that there is an error in the
